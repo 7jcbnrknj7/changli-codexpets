@@ -1,3 +1,5 @@
+[简体中文](README.md) | [日本語](README.ja.md) | [English](README.en.md)
+
 # 长离 · Changli
 
 ## v2.0.0 — 知性温柔版
